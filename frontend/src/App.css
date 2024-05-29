@@ -3,82 +3,27 @@ body {
     background-color: #f4f4f4;
     margin: 0;
     padding: 0;
-  }
-  
-  .container {
+}
+
+.container {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
     background-color: #fff;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
-  }
-  
-  h1 {
+}
+
+h1 {
     text-align: center;
     color: #333;
-  }
-  
-  .collection {
-    margin-bottom: 40px;
-  }
-  
-  .collection h2 {
-    color: #555;
-    border-bottom: 2px solid #ddd;
-    padding-bottom: 10px;
-  }
-  
-  .collection p {
-    color: #777;
-  }
-  
-  .collection a {
+}
+
+a {
     color: #1a73e8;
     text-decoration: none;
-  }
-  
-  .collection a:hover {
+}
+
+a:hover {
     text-decoration: underline;
-  }
-  
-  .cards {
-    list-style: none;
-    padding: 0;
-  }
-  
-  .card {
-    margin-bottom: 20px;
-    padding: 10px;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    background-color: #fafafa;
-    display: flex;
-    align-items: center;
-  }
-  
-  .card img {
-    width: 100px;
-    height: auto;
-    margin-right: 20px;
-  }
-  
-  .card h3 {
-    margin: 0;
-    color: #333;
-  }
-  
-  .card p {
-    margin: 5px 0;
-    color: #555;
-  }
-  
-  .card a {
-    color: #1a73e8;
-    text-decoration: none;
-  }
-  
-  .card a:hover {
-    text-decoration: underline;
-  }
-  
+}

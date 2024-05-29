@@ -1,0 +1,18 @@
+.collection {
+  margin-bottom: 40px;
+}
+
+.collection h2 {
+  color: #555;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 10px;
+}
+
+.collection p {
+  color: #777;
+}
+
+.cards {
+  list-style: none;
+  padding: 0;
+}

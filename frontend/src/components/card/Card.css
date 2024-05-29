@@ -1,0 +1,25 @@
+.card {
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #fafafa;
+  display: flex;
+  align-items: center;
+}
+
+.card img {
+  width: 100px;
+  height: auto;
+  margin-right: 20px;
+}
+
+.card h3 {
+  margin: 0;
+  color: #333;
+}
+
+.card p {
+  margin: 5px 0;
+  color: #555;
+}
